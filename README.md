@@ -1,5 +1,5 @@
 # Numbersss
-simple number guessing game (CLI)
+simple number guessing mini game (CLI)
 </br></br></br>
 
 ### How to install
